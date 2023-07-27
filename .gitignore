@@ -15,7 +15,6 @@ bower_components
 *.sublime*
 
 psd
-thumb
 sketch
 .env
 
